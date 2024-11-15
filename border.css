@@ -1,0 +1,72 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #6294a6;
+ }
+
+ header,footer{
+    background-color: rgb(50, 68, 234);
+    padding: 8px;
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.box{
+
+    margin: 20px auto ;
+    padding:  5px 20px;
+    text-align: center;
+    background-color: rgb(90, 89, 117);
+    width: 900px;
+    border: solid;
+    border-color: blue;
+    border-top-style: dotted;
+    border-top-color: black;
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+    border-left-style: double;
+    border-left-color: red;
+    border-right-style:solid;
+    border-right-color: azure;
+}
+
+.a{
+    margin: 20px auto ;
+    padding:  5px 20px;
+    text-align: center;
+    background-color: rgb(90, 89, 117);
+    width: 800px;
+    border: solid;
+    border-radius:10px ;
+    border-width: 3px;
+    border-bottom:4px solid rgb(12, 8, 129);
+    border-left: 4px dotted rgb(0, 0, 0);
+    border-right: 4px double rgb(43, 255, 0);
+    border-top: 4px dashed red;
+}
+
+
+.b{
+    margin: 20px auto ;
+    padding:  5px 20px;
+    text-align: center;
+    background-color: rgb(90, 89, 117);
+    width: 700px;
+    border: solid ;
+    border-bottom-color: #07b1ef;
+    border-top-color: #ef0796;
+    border-left-color: #4a13e0;
+    border-right-color: #07ef2e;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+}
+
+
+
+
+
+
+
